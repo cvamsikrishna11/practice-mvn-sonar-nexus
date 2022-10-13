@@ -1,0 +1,1 @@
+# practice-mvn-sonar-nexus
